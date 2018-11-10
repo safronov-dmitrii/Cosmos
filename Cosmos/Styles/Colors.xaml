@@ -1,0 +1,40 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:Cosmos">
+
+    
+    <!-- ЦВЕТ ФОНА -->
+    <Color x:Key="BackgroundVeryDark">#000011</Color>
+    <SolidColorBrush x:Key="BackgroundVeryDarkBrush" Color="{StaticResource BackgroundVeryDark}"/>
+
+    <Color x:Key="BackgroundDark">#00001a</Color>
+    <SolidColorBrush x:Key="BackgroundDarkBrush" Color="{StaticResource BackgroundDark}"/>
+
+    <Color x:Key="BackgroundLight">#000033</Color>
+    <SolidColorBrush x:Key="BackgroundLightBrush" Color="{StaticResource BackgroundLight}"/>
+
+    <Color x:Key="BackgroundVertyLight">#00004d</Color>
+    <SolidColorBrush x:Key="BackgroundVertyLightBrush" Color="{StaticResource BackgroundVertyLight}"/>
+
+    <Color x:Key="BackgroundOnline">#00821a</Color>
+    <SolidColorBrush x:Key="BackgroundOnlineBrush" Color="{StaticResource BackgroundOnline}"/>
+
+    <Color x:Key="BackgroundOffline">#b3821a</Color>
+    <SolidColorBrush x:Key="BackgroundOfflineBrush" Color="{StaticResource BackgroundOffline}"/>
+    
+    <!-- ЦВЕТ ШРИФТА -->
+
+    <Color x:Key="ForegroundVeryLight">#ffffff</Color>
+    <SolidColorBrush x:Key="ForegroundVertyLightBrush" Color="{StaticResource ForegroundVeryLight}"/>
+
+    <Color x:Key="ForegroundLight">#e9e9ff</Color>
+    <SolidColorBrush x:Key="ForegroundLightBrush" Color="{StaticResource ForegroundLight}"/>
+
+    <Color x:Key="ForegroundDark">#ccccff</Color>
+    <SolidColorBrush x:Key="ForegroundDarkBrush" Color="{StaticResource ForegroundDark}"/>
+
+    <Color x:Key="ForegroundVeryDark">#b3b3ff</Color>
+    <SolidColorBrush x:Key="ForegroundVeryDarkBrush" Color="{StaticResource ForegroundVeryDark}"/>
+
+  
+</ResourceDictionary>

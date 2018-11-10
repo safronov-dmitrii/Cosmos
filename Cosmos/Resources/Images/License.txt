@@ -1,0 +1,11 @@
+﻿Изображения:
+1. icon.ico
+2. logo-small.png
+3. logo.png
+
+Были загружены с сайта www.iconfinder.com по лицензии:
+	Free for commercial use (Include link to authors website) 
+
+Ссылка на сайт автора перечисленных изображений:
+https://iconka.com/en/
+
