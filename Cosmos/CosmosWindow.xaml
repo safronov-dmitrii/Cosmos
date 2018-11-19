@@ -77,8 +77,10 @@
                                             </Border.BorderBrush>
                                         </Border>
                                         <!-- Определение пользовательского контента. Для отображения страниц-->
+                                    <Border Grid.Row="2" Background="{StaticResource BackgroundLightBrush}">
                                         <ContentPresenter Grid.Row="2" />
-                             
+                                    </Border>
+
                                 </Grid>
                             </Border>
                         </Border>
@@ -111,6 +113,7 @@
     </WindowChrome.WindowChrome>
     
     <!-- Здесь будут добавлены страницы (LoginPage, ConversationPage)-->
-    <Grid Background="{StaticResource BackgroundLightBrush}">
+    <Grid>
+        <Frame Content="{Binding CurrentPage}" NavigationUIVisibility="Hidden"/>
     </Grid>
 </Window>

@@ -1,4 +1,5 @@
 ﻿using System.Windows;
+using System.Windows.Controls;
 using System.Windows.Input;
 
 namespace Cosmos
@@ -8,6 +9,7 @@ namespace Cosmos
         #region Приватные поля
 
         private Window currentWindow;
+        private Page _currentPage;
         private ICommand mMinimizeCommand;
         private ICommand mRestoreCommand;
         private ICommand mMaximizeCommand;
@@ -20,14 +22,18 @@ namespace Cosmos
         /// <summary>
         /// Минимальная ширина окна
         /// </summary>
-        public int WindowMinWidth { get; set; } = 300;
+        public int WindowMinWidth { get; set; } = 400;
         /// <summary>
         /// Минимальная высота окна
         /// </summary>
-        public int WindowMinHeight { get; set; } = 100;
+        public int WindowMinHeight { get; set; } = 500;
         #endregion
 
         #region Свойства пользовательского окна
+        /// <summary>
+        /// Текущая отображаемая страница
+        /// </summary>
+        public Page CurrentPage { get { return _currentPage; } set { _currentPage = value; OnPropertyChanged(); } }
 
         /// <summary>
         /// Ширина границы окна, предназначенной для изменения размера
@@ -82,6 +88,7 @@ namespace Cosmos
             WindowMenuCommand = new RelayCommand(() => { SystemCommands.ShowSystemMenu(win, GetWindowPosition()); }, () => true);
 
             this.currentWindow = win;
+            CurrentPage = new LoginPage();
         }
 
         /// <summary>

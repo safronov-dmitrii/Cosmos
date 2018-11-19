@@ -19,3 +19,5 @@ C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Ch
 C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Cosmos.exe
 C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Cosmos.pdb
 C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Cosmos.csprojAssemblyReference.cache
+C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Pages\LoginPage.baml

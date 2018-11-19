@@ -5,6 +5,7 @@
 
     <!-- Подгружаю шрифт-->
     <FontFamily x:Key="Space">pack://application:,,,/Resources/Fonts/#Space Age Cyrillic</FontFamily>
+    <FontFamily x:Key="MessageText">Cambria</FontFamily>
     
     <!-- Определяю пользовательский стиль для элементов управления-->
     <Style TargetType="Control" x:Key="BaseStyle">
