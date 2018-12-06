@@ -1,13 +1,16 @@
-C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\bin\Debug\Cosmos.exe.config
-C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\bin\Debug\Cosmos.exe
-C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\bin\Debug\Cosmos.pdb
 C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\CosmosWindow.g.cs
+C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Pages\LoginPage.g.cs
 C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\App.g.cs
 C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Cosmos_MarkupCompile.cache
 C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Cosmos_MarkupCompile.lref
+C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Cosmos.csprojAssemblyReference.cache
+C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\bin\Debug\Cosmos.exe.config
+C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\bin\Debug\Cosmos.exe
+C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\bin\Debug\Cosmos.pdb
 C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\App.baml
 C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\CosmosWindow.baml
+C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Pages\LoginPage.baml
 C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Styles\Buttons.baml
 C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Styles\Colors.baml
 C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Styles\Fonts.baml
@@ -18,6 +21,26 @@ C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Ch
 C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Cosmos.csproj.CoreCompileInputs.cache
 C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Cosmos.exe
 C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Cosmos.pdb
-C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Cosmos.csprojAssemblyReference.cache
-C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Pages\LoginPage.g.cs
-C:\Users\днс\Desktop\Резюме и портфолио\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Pages\LoginPage.baml
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\bin\Debug\Cosmos.exe.config
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\bin\Debug\Cosmos.exe
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\bin\Debug\Cosmos.pdb
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Cosmos.csprojAssemblyReference.cache
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\CosmosWindow.g.cs
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\App.g.cs
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Cosmos_MarkupCompile.cache
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Cosmos_MarkupCompile.lref
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\App.baml
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\CosmosWindow.baml
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Pages\LoginPage.baml
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Styles\Buttons.baml
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Styles\Colors.baml
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Styles\Fonts.baml
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Styles\Texts.baml
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Cosmos.g.resources
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Cosmos.Properties.Resources.resources
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Cosmos.csproj.GenerateResource.cache
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Cosmos.csproj.CoreCompileInputs.cache
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Cosmos.exe
+C:\Users\днс\Desktop\CV\Портфолио\Chat\Cosmos\Cosmos\obj\Debug\Cosmos.pdb

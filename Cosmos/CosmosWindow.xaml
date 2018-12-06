@@ -114,6 +114,6 @@
     
     <!-- Здесь будут добавлены страницы (LoginPage, ConversationPage)-->
     <Grid>
-        <Frame Content="{Binding CurrentPage}" NavigationUIVisibility="Hidden"/>
+        <Frame ClipToBounds="True" Content="{Binding CurrentPage}" NavigationUIVisibility="Hidden"/>
     </Grid>
 </Window>

@@ -9,7 +9,7 @@ namespace Cosmos
         #region Приватные поля
 
         private Window currentWindow;
-        private Page _currentPage;
+        private BasePage _currentPage;
         private ICommand mMinimizeCommand;
         private ICommand mRestoreCommand;
         private ICommand mMaximizeCommand;
@@ -33,7 +33,7 @@ namespace Cosmos
         /// <summary>
         /// Текущая отображаемая страница
         /// </summary>
-        public Page CurrentPage { get { return _currentPage; } set { _currentPage = value; OnPropertyChanged(); } }
+        public BasePage CurrentPage { get { return _currentPage; } set { _currentPage = value; OnPropertyChanged(); } }
 
         /// <summary>
         /// Ширина границы окна, предназначенной для изменения размера
@@ -102,6 +102,19 @@ namespace Cosmos
             if (currentWindow.WindowState != WindowState.Maximized)
                 return new Point(point.X + currentWindow.Left, point.Y + currentWindow.Top);
             else return point;
+        }
+
+        public void NextPage()
+        {
+            //ICosmosPage iPage = CurrentPage as ICosmosPage;
+           // iPage?.NextPage(currentWindow);
+
+        }
+
+        public void PrevPage()
+        {
+           // ICosmosPage iPage = CurrentPage as ICosmosPage;
+           // iPage?.PrevPage(currentWindow);
         }
     }
 }

@@ -18,11 +18,18 @@ namespace Cosmos
     /// <summary>
     /// Логика взаимодействия для LoginPage.xaml
     /// </summary>
-    public partial class LoginPage : Page
+    public partial class LoginPage : BasePage
     {
         public LoginPage()
         {
             InitializeComponent();
+        }
+
+        // Добавил временно
+        // В целях тестирования
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            AnimationHelper.NextAnimation(this);
         }
     }
 }

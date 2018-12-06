@@ -1,4 +1,4 @@
-﻿<Page x:Class="Cosmos.LoginPage"
+﻿<local:BasePage x:Class="Cosmos.LoginPage"
       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
@@ -14,11 +14,11 @@
                     TextBlock.TextAlignment="Center">
                 <StackPanel>
                     <TextBlock Text="Авторизация" Style="{StaticResource AutorizationTextBlock}"/>
-                    <TextBox Margin="0,50,0,10" Tag="Логин" Style="{StaticResource InputsTextBox}"/>
-                    <TextBox Margin="0,0,0,30" Tag="Пароль" Style="{StaticResource InputsTextBox}"/>
-                    <Button Content="Подключиться"/>
+                    <TextBox Margin="0,50,0,10" Tag="Логин" Style="{StaticResource LoginTextStyle}"/>
+                    <PasswordBox Margin="0,0,0,30" Tag="Пароль"  Style="{StaticResource PasswordTextStyle}"/>
+                    <Button Content="Подключиться" Click="Button_Click"/>
                 </StackPanel>
             </Border>
         </Viewbox>
     </Grid>
-</Page>
+</local:BasePage>
